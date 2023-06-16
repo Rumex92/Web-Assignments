@@ -1,6 +1,6 @@
 
 <?php
-$age = 18;
+$age = 17;
 $citizenship = true;
 $ID = true;
 
